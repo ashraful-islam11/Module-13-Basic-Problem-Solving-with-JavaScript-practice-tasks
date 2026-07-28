@@ -1,4 +1,4 @@
-// todo:            Task 13-3B: Odd Numbers Up To N
+// todo:            Task : Odd Numbers Up To N
 /**
  * Problem Statement:
  * Write a function getOddNumbers that takes a number n and returns an array of all odd numbers from 1 to n (inclusive). */ 
