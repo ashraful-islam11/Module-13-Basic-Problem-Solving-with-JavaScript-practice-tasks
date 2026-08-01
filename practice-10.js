@@ -10,6 +10,7 @@
  
 function countMultiplesOfThree(numbers) {
   let count = 0;
+  
   // TODO: loop through and count multiples of 3
   for( let arrayElement of  numbers){
         if( arrayElement  % 3 === 0){
